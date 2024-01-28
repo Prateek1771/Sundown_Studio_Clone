@@ -1,7 +1,7 @@
 This is clone of the official website Sundown Studios.
 
 This website clone consists of: 
-HTML, CSS, Java Script, Locomotive Scroll, GSAP(animations).
+HTML, CSS, Java Script, Locomotive Scroll, GSAP(animations), Swiper.js.
 
 Feel free to play with the code and leave a star.
 
